@@ -2,7 +2,7 @@
 
 Make sure that the code uses an H2 database instead of a List for storing courses.
 
-When starting the application, there should be stored the following courses in de DB:
+When starting the application, the following courses should be stored in the DB:
 - Back-End Development, 6 credits, semester 2
 - Workplace Project Junior, 6 credits, semester 3
 - Full-Stack Development, 6 credits, semester 3
